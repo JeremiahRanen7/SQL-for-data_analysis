@@ -6,3 +6,5 @@ The above project can also be converted into a dashboard using Power BI or Table
 
 This project can be treated as a micro experience as a stakeholder asks his or her worker to analyse some importsnt business problem and convert it into a solution
 by gaining insights.
+
+![image](https://github.com/JeremiahRanen7/SQL-for-data_analysis/assets/141173239/368952fc-9304-46e7-8f39-90829cdc0e11)
